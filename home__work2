@@ -1,1 +1,6 @@
+Numbers = "0123456789"
+my_numbers = set(Numbers)
+print("Початкрві цифриб", my_numbers)
+my_numbers.add("10")
+print("Нові цифри",my_numbers )
 
